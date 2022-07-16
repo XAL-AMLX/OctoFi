@@ -1,6 +1,6 @@
 import React from 'react'
 import Image from 'next/image'
-// import img4x9 from '../public/assets/img4x9.png'
+
 
 
 

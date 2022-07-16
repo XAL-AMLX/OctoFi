@@ -3,7 +3,6 @@ import React from 'react'
 
 
 
-{/**/}
 
 const Navbar = () => (
  <div className="flex flex-row mb-56 ">

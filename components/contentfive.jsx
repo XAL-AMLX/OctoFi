@@ -1,6 +1,6 @@
 import React from 'react'
 import Image from 'next/image'
-// import img4x9 from '../public/assets/img4x9.png'
+
 
 
 
@@ -17,7 +17,7 @@ const Contentfive = () => (
     <div className="    flex   justify-center  place-content-center content-center text-center  tracking-widest  font-thin md:font-thin text-yellow-500 ">
       <div className="ml-0 mr-8 my-4 lg:mx-16  md:m-12   lg:mx-64 lg:mx-64 bg-transparent  border-yellow-500 h-56 w-56 bg-gradient-to-r from-violet-900 to-yellow-900 rounded-full">
       <div >
-        <div className="text-xl  my-20  mx-10 text-center  text-white bg-clip-text text-transparent bg-gradient-to-r from-yellow-600 to-violet-500   font-extralight  brightness-200 hover:brightness-200">LET YOUR OCTO WORK</div>
+        <div className="text-xl  my-20  mx-10 text-center  text-white bg-clip-text text-transparent bg-gradient-to-r from-yellow-600 to-violet-500   font-extralight  brightness-125">LET YOUR OCTO WORK</div>
         
       </div>
       </div>
@@ -33,7 +33,7 @@ const Contentfive = () => (
 
         <div>
 
-          <div className="text-xl  flex  mx-12 my-20 md:my-24 lg:my-36 justify-center  place-content-center content-center text-center text-center  text-white bg-clip-text text-transparent bg-gradient-to-r from-violet-500 to-green-500   font-extralight  brightness-200 hover:brightness-200"> Stake and earn additional OCTO on top of OCTO tokens and OCTO trading fees. </div>
+          <div className="text-xl  flex  mx-12 my-20 md:my-24 lg:my-36 justify-center  place-content-center content-center text-center text-center  text-white bg-clip-text text-transparent bg-gradient-to-r from-violet-500 to-green-500   font-extralight  brightness-150"> Stake and earn additional OCTO on top of OCTO tokens and OCTO trading fees. </div>
         
         </div>
       

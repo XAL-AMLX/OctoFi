@@ -1,6 +1,5 @@
 import React from 'react'
-// import Image from 'next/image'
-// import img4x1 from '../public/assets/img4x1.png'
+
 
 
 

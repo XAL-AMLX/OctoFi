@@ -1,7 +1,6 @@
 import React from 'react'
 import Image from 'next/image'
-// import img4x1 from '../public/assets/img4x1.png'
-// import img4x3 from '../public/assets/img4x1.png'
+
 
 
 const Hero = () => (
