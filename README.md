@@ -1,5 +1,9 @@
 This application was built using nextjs and tailwind css.
 
+Nextjs
+Tailwind css
+
+
 Welcome to the NextJS base template bootstrapped using the `create-next-app`. This template supports TypeScript, but you can use normal JavaScript as well.
 
 ## Getting Started
