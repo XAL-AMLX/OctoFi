@@ -6,7 +6,9 @@ Tailwind css
 
 Welcome to the NextJS base template bootstrapped using the `create-next-app`. This template supports TypeScript, but you can use normal JavaScript as well.
 
-## Getting Started
+## Live application
+
+(https://heartfelt-mermaid-7b5629.netlify.app/)
 
 Hit the run button to start the development server.
 
