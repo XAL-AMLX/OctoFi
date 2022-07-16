@@ -8,10 +8,8 @@ import Contentfour from '../components/contentfour';
 import Contentfive from '../components/contentfive';
 import Footer from '../components/footer';
 
-// import img4x1 from '../public/assets/img4x1.png'
-// import img4x2 from '../public/assets/img4x2.png'
 
-{/**/}
+
 
 const Index = () => (
  <div>
